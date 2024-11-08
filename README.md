@@ -1,4 +1,5 @@
 # uuid
+**development** status
 The uuid package generates and inspects UUIDs based on
 [RFC 9562](https://datatracker.ietf.org/doc/html/rfc9562)
 and DCE 1.1: Authentication and Security Services.
